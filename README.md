@@ -1,6 +1,6 @@
 # Food-recognition-2021-AML
 
-The main purse of the project was to create a complete image classification pipeline and test different image classification algorithms, ranging from small self-trained networks to larger pre-trains ones like Efficient-Net. 
+The main purpose of the project was to create a complete image classification pipe-line and test different image classification algorithms, ranging from small self-trained networks to larger pre-trained ones like Efficient-Net. 
 
 
 ## The data:
@@ -19,7 +19,7 @@ The dataset consists of 30612 images for the training set and 7653 images for th
 ## Code:
 ### EDA
 The EDA folder contains the following files:
-* The pipe line with a self created benchmark model (the Performance is terrible). 
+* The pipe-line with a self created benchmark model (the Performance is terrible). 
 * A small EDA notebook that shows some of the data properties.
 
 ### Models:
@@ -29,4 +29,4 @@ The models folder contains the following files:
 * Model x, with an validation accuracy of XX
 * Model x, with an validation accuracy of XX
 
-Also, these models where train on Kaggle with the GPU enabled!
+Also, these models where trained on Kaggle with the GPU enabled!
