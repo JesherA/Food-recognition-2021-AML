@@ -24,9 +24,9 @@ The EDA folder contains the following files:
 
 ### Models:
 The models folder contains the following files:
+* Model Efficient-net-B4, with an validation accuracy of 67%
 * Model x, with an validation accuracy of XX
 * Model x, with an validation accuracy of XX
-* Model x, with an validation accuracy of XX
-* Model x, with an validation accuracy of XX
+
 
 Also, these models where trained on Kaggle with the GPU enabled!
